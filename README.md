@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### 💻 Open Source Work Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=yuning-cao&show_icons=true)
+
 <!--
 **yuning-cao/yuning-cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
