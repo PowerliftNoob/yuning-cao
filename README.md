@@ -1,4 +1,5 @@
-### 🔭 Sever SDE @ Baidu.inc
+### 🔭 About Me
+Sever SDE @ Baidu.inc
 
 ### 💻 Open Source Work Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=yuning-cao&show_icons=true)
