@@ -1,5 +1,5 @@
 ### 🔭 About Me
-Sever SDE @ Baidu.inc
+Sever SDE , Baidu, Bejing, CHINA
 
 ### 💻 Open Source Work Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=yuning-cao&show_icons=true)
